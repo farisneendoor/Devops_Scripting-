@@ -1,2 +1,2 @@
-# Devops_Scripting-
+# Devops-Bash-Scripting
 for learning docs
