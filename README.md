@@ -1,4 +1,4 @@
-# 🚀 DevOps Scripting
+# 🚀 Bash Scripting
 
 <div align="center">
 
